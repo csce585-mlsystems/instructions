@@ -6,7 +6,7 @@
 - The report is the only file you need to directly submit.  
 
 #### **2. Code**  
-- Host all code and related materials on **GitHub** or **GitLab** in a **public repository**.  
+- Host all code and related materials in your **GitHub** repository.  
 - Ensure the repository contains:  
   - All code and scripts.  
   - Tutorials or documentation required to replicate the results.  
