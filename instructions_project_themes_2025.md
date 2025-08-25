@@ -1,5 +1,5 @@
 # CSCE 585: Machine Learning Systems  
-## Course Projects (Spring 2025)
+## Course Projects (Fall 2025)
 
 ### Overview
 The capstone project is a major component of CSCE 585. Students will work in teams to **design, implement, and evaluate a machine learning system** that addresses a real systems challenge.  
