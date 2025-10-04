@@ -74,7 +74,12 @@ Example:
 - Provide all other details a computer science student would need to reproduce your results.  
 
 Example:  
-- To train the model, run:  
+- Download the [DATASET](dataset_link)
+  ```bash
+  wget <URL_of_file>
+  ```
+
+- To train the model, run:
   ```bash
   python train.py
   ```  
