@@ -1,4 +1,4 @@
-### Milestone 3: Generating and Analyzing Partial Results (Expanded)
+### Milestone 2: Generating and Analyzing Partial Results (Expanded)
 
 In this milestone, you’ll present partial results from the initial implementation of your project’s solution, and your focus will be on analyzing and discussing these results. A thoughtful discussion involves recognizing both **positive outcomes** that support your approach and **negative or unexpected outcomes** that highlight areas for improvement or potential challenges. This is crucial for advancing your solution and demonstrating scientific rigor.
 
